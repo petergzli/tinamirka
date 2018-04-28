@@ -9,7 +9,7 @@ defmodule Tinamirka.Onboarding.Email do
   def send_request_ping(email, name, message) do
     new_email()
     |> template("tina")
-    |> to(["petergzli@gmail.com"])
+    |> to(["tinamirka@gmail.com"])
     |> from("ideas@belinkedapp.com")
     |> subject(Enum.join(["New email form from ", name], " "))
     |> put_param("global_merge_vars", [
