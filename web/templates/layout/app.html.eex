@@ -183,9 +183,9 @@
                         <div class="item-folio">
                                 
                             <div class="item-folio__thumb">
-                                <a href="images/portfolio/gallery/gallery-mirka1.png" class="thumb-link" title="Shutterbug" data-size="1050x700">
-                                    <img src="images/portfolio/mirka-1-1x.png" 
-                                         srcset="images/portfolio/mirka-1-1x.png 1x, images/portfolio/mirka-1-2x.png 2x" alt="">
+                                <a href="images/portfolio/gallery/7-blue.png" class="thumb-link" title="Shutterbug" data-size="1050x700">
+                                    <img src="images/portfolio/337-print.jpg" 
+                                          alt="">
                                 </a>
                             </div>
     
@@ -209,9 +209,9 @@
                         <div class="item-folio">
                                 
                             <div class="item-folio__thumb">
-                                <a href="images/portfolio/gallery/gallery-mirka-2.png" class="thumb-link" title="Woodcraft" data-size="1050x700">
-                                    <img src="images/portfolio/woodcraft.jpg" 
-                                         srcset="images/portfolio/mirka-2.png 1x" alt="">
+                                <a href="images/portfolio/gallery/7-red.png" class="thumb-link" title="Woodcraft" data-size="1050x700">
+                                    <img src="images/portfolio/7-print.jpg" 
+                                          alt="">
                                 </a>
                             </div>
     
